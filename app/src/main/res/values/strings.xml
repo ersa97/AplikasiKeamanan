@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">AplikasiKeamanan</string>
     <string-array name="izin_array">
+        <item>tidak izin</item>
         <item>izin</item>
         <item>pulang</item>
         <item>rawat inap</item>

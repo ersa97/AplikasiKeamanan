@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onNothingSelected(AdapterView<?> adapterView) {
-
+                Toast.makeText(MainActivity.this, "harap isi keterangan izin", Toast.LENGTH_SHORT).show();
             }
         });
 
